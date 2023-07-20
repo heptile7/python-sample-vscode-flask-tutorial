@@ -6,7 +6,7 @@ pool:
 strategy:
   matrix:
   maxParallel:
-    Python37:
+    Python3.7:
       python.version: '3.7'
     Python38:
       python.version: '3.8'
